@@ -6,7 +6,7 @@ from aiogram import Bot, Dispatcher, F, Router
 from aiogram.filters import Command
 from aiogram.types import LabeledPrice, Message, PreCheckoutQuery
 
-TOKEN = getenv("BOT_TOKEN")
+TOKEN="7774343253:AAENWA7FL9k7TeUt8U9qTCLe11pq9FEeH4M"
 
 GOODS = {  # Fake storage for goods, in real life it should be a database
     "demo": 1,
